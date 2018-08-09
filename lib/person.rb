@@ -3,3 +3,4 @@ class Person
   @name = name 
   @job = job
 end
+puts 
