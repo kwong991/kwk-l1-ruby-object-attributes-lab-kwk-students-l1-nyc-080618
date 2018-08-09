@@ -1,3 +1,4 @@
 # dog.rb
 class Dog 
- def  
+ def name=(new_name)
+   @name=
